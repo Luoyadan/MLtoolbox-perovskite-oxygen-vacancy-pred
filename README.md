@@ -33,7 +33,7 @@ The development of efficient catalysts is essential to accelerate the sluggish k
 ## Installation
 To utilize this repository, please clone the repository as follows:
 ```bash
-git clone https://github.com/yourrepo/MLtoolbox.git
+git clone https://github.com/Luoyadan/MLtoolbox-perovskite-oxygen-vacancy-pred
 cd MLtoolbox
 ```
 
@@ -46,7 +46,7 @@ conda activate ml-pero
 Then install all the necessary dependencies: 
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
