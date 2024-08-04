@@ -52,9 +52,10 @@ pip install -r requirements.txt
 ## Usage
 ### Data Preparation
 Ensure that the datasets are correctly placed in the `data` directory.
-To reproduce the results for oxygen vacancy prediction, we have prepared a cleaned version of data files:
-- `data_Co.xlsx` for Co-based 221 perovskites and 
-- `data_Fe.xlsx` for Fe-based 93 perovskites.
+To reproduce the results for oxygen vacancy prediction, we have prepared a cleaned version of data files using `0_dataset_preparation_and_toy_test.ipynb` in the folder `data`:
+- `Co_temperature.xlsx` for Co-based perovskites, 
+- `Fe_temperature.xlsx` for Fe-based perovskites,
+- `to_predict.xlsx` for two new Co-based perovskites to predict. 
 
 Six attributes are pre-calculated:
 - Polarization
